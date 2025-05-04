@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard – Tableau
 
-This project showcases an interactive **HR Analytics Dashboard** built using **Tableau** to support data-driven decision-making in Human Resources.
+This project features an interactive **HR Analytics Dashboard** built using **Tableau**, designed to provide HR professionals with key insights into organizational data. The dashboard presents critical HR metrics such as employee demographics, income distribution, organizational overview, and termination data. By exploring these insights, HR teams can make informed, data-driven decisions and improve organizational strategies.
 
 ## 🔍 Overview
 
