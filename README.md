@@ -6,6 +6,7 @@ This project features an interactive **HR Analytics Dashboard** built using **Ta
 
 The dashboard provides insights into key HR metrics, including:
 - Employee demographics
+- Income analysis
 - Termination rates
 - Department-wise headcount
 - Tenure distribution
